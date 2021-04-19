@@ -25,8 +25,8 @@ public class LoginValidation extends mainClass {
 		Object[][] data = new Object[2][2];
 		data[0][0] = "akhilbingi32";
 		data[0][1] = "Matrix@321456";
-		data[1][0] = "akhilbingi64679@gmail.com";
-		data[1][1] = "Matrix@32164";
+		data[1][0] = "z11";
+		data[1][1] = "Matrix@321456";
 		return data;
 
 	}
